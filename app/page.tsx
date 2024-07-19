@@ -11,10 +11,10 @@ export default function Home() {
   const { darkMode } = useDarkMode(); 
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
-  const [text, setText] = useState(' Chaloemrat or you can call me Tonkhab.');
+  const [text, setText] = useState(' Aphiwich or you can call me Ball,Baseball.');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ " student"," Chaloemrat or you can call me Tonkhab." ];
+  const toRotate = [ " student"," Aphiwich or you can call me Ball,Baseball." ];
   const period = 2000;
 
   useEffect(() => {

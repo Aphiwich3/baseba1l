@@ -9,7 +9,7 @@ export default function Navigation() {
 
   return (
     <nav className="py-10 mb-12 flex justify-between dark:text-white">
-      <h1 className="font-burtons text-xl">Tonkhab</h1>
+      <h1 className="font-burtons text-xl">BAseBA1l</h1>
       <ul className="flex items-center">
         <li>
           <BsFillMoonStarsFill

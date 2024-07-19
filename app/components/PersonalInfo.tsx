@@ -16,18 +16,17 @@ export default function PersonalInfo({ text }: PersonalInfoProps) {
         <span className="wrap">{text}</span>
       </h2>
       <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-        I am learning DevOps and I am looking for an internship related to
-        software backend developer using Golang and DevOps.
+      I am learning web development and am seeking an internship as a Front-end software developer :D.
       </p>
       <div className="text-5xl flex justify-center items-center gap-16 py-3 text-gray-600 dark:text-gray-400">
-        <Link href="https://github.com/LGROW101" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center">
+        <Link href="https://github.com/Aphiwich3" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center">
           <ImGithub />
          
         </Link>
-        <Link href="https://www.linkedin.com/in/chaloemrat-hengsahatsawat-6253682a7/" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center">
+        <Link href="https://www.linkedin.com/in/aphiwich-prangtho-0b769931a/" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center">
           <BsLinkedin />
         </Link>
-        <Link href="https://medium.com/@Chaloemrat" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center">
+        <Link href="https://medium.com/@BASEBAl" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center">
           <FaMedium />
          
         </Link>
