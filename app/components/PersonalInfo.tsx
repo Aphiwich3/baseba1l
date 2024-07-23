@@ -16,10 +16,10 @@ export default function PersonalInfo({ text }: PersonalInfoProps) {
         <span className="wrap">{text}</span>
       </h2>
       <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-      ฉันกำลังเรียนรู้เรื่องWeb
+      I am learning web development and am seeking an internship as a Front-end software developer. :D
       </p>
       <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">    
-      ฝึกงานวันที่ 4 พ.ย 64
+      Internship period : 4 November 2024 to 21 February 2025
       </p>
       <div className="text-5xl flex justify-center items-center gap-16 py-3 text-gray-600 dark:text-gray-400">
         <Link href="https://github.com/Aphiwich3" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center">
