@@ -16,7 +16,7 @@ export default function PersonalInfo({ text }: PersonalInfoProps) {
         <span className="wrap">{text}</span>
       </h2>
       <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-      I am learning web development and am seeking an internship as a Front-end software developer :D.
+      ฉันกำลังเรียนรู้เรื่องWeb
       </p>
       <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">    
       Internship period : 4 November 2024 to 21 February 2025
