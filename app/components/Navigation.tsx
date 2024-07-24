@@ -19,8 +19,8 @@ export default function Navigation() {
         </li>
         <li>
           <a
-            href="/RESUME APHIWICH (1).pdf" 
-            download="RESUME APHIWICH (1).pdf" 
+            href="/RESUME APHIWICH.pdf" 
+            download="RESUME APHIWICH.pdf" 
             className="bg-gradient-to-r from-blue-400 to-purple-500 text-white px-4 py-2 border-none rounded-md ml-8 cursor-pointer no-underline inline-block hover:from-blue-500 hover:to-purple-600 transition duration-300 shadow-sm hover:shadow"
             >
                  Resume
